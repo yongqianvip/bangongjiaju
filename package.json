@@ -2,7 +2,7 @@
   "name": "jiaju",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yongqianvip.gitee.io/linyuanbangongjiaju/",
+  "homepage": "https://yongqianvip.github.io/bangongjiaju/",
   "dependencies": {
     "@ant-design/compatible": "^1.0.8",
     "@testing-library/jest-dom": "^5.11.4",
