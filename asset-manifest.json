@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/linyuanbangongjiaju/static/css/main.e995b5b1.chunk.css",
-    "main.js": "/linyuanbangongjiaju/static/js/main.0f5ea294.chunk.js",
-    "main.js.map": "/linyuanbangongjiaju/static/js/main.0f5ea294.chunk.js.map",
-    "runtime-main.js": "/linyuanbangongjiaju/static/js/runtime-main.9f840a9e.js",
-    "runtime-main.js.map": "/linyuanbangongjiaju/static/js/runtime-main.9f840a9e.js.map",
-    "static/css/2.e3dbf62a.chunk.css": "/linyuanbangongjiaju/static/css/2.e3dbf62a.chunk.css",
-    "static/js/2.2a68b3a7.chunk.js": "/linyuanbangongjiaju/static/js/2.2a68b3a7.chunk.js",
-    "static/js/2.2a68b3a7.chunk.js.map": "/linyuanbangongjiaju/static/js/2.2a68b3a7.chunk.js.map",
-    "static/js/3.6eff4c37.chunk.js": "/linyuanbangongjiaju/static/js/3.6eff4c37.chunk.js",
-    "static/js/3.6eff4c37.chunk.js.map": "/linyuanbangongjiaju/static/js/3.6eff4c37.chunk.js.map",
-    "index.html": "/linyuanbangongjiaju/index.html",
-    "static/css/2.e3dbf62a.chunk.css.map": "/linyuanbangongjiaju/static/css/2.e3dbf62a.chunk.css.map",
-    "static/css/main.e995b5b1.chunk.css.map": "/linyuanbangongjiaju/static/css/main.e995b5b1.chunk.css.map",
-    "static/js/2.2a68b3a7.chunk.js.LICENSE.txt": "/linyuanbangongjiaju/static/js/2.2a68b3a7.chunk.js.LICENSE.txt"
+    "main.css": "/bangongjiaju/static/css/main.30bd4780.chunk.css",
+    "main.js": "/bangongjiaju/static/js/main.80c53313.chunk.js",
+    "main.js.map": "/bangongjiaju/static/js/main.80c53313.chunk.js.map",
+    "runtime-main.js": "/bangongjiaju/static/js/runtime-main.f7a4e9b6.js",
+    "runtime-main.js.map": "/bangongjiaju/static/js/runtime-main.f7a4e9b6.js.map",
+    "static/css/2.430d3e5b.chunk.css": "/bangongjiaju/static/css/2.430d3e5b.chunk.css",
+    "static/js/2.bcd7e9af.chunk.js": "/bangongjiaju/static/js/2.bcd7e9af.chunk.js",
+    "static/js/2.bcd7e9af.chunk.js.map": "/bangongjiaju/static/js/2.bcd7e9af.chunk.js.map",
+    "static/js/3.8c320250.chunk.js": "/bangongjiaju/static/js/3.8c320250.chunk.js",
+    "static/js/3.8c320250.chunk.js.map": "/bangongjiaju/static/js/3.8c320250.chunk.js.map",
+    "index.html": "/bangongjiaju/index.html",
+    "static/css/2.430d3e5b.chunk.css.map": "/bangongjiaju/static/css/2.430d3e5b.chunk.css.map",
+    "static/css/main.30bd4780.chunk.css.map": "/bangongjiaju/static/css/main.30bd4780.chunk.css.map",
+    "static/js/2.bcd7e9af.chunk.js.LICENSE.txt": "/bangongjiaju/static/js/2.bcd7e9af.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f840a9e.js",
-    "static/css/2.e3dbf62a.chunk.css",
-    "static/js/2.2a68b3a7.chunk.js",
-    "static/css/main.e995b5b1.chunk.css",
-    "static/js/main.0f5ea294.chunk.js"
+    "static/js/runtime-main.f7a4e9b6.js",
+    "static/css/2.430d3e5b.chunk.css",
+    "static/js/2.bcd7e9af.chunk.js",
+    "static/css/main.30bd4780.chunk.css",
+    "static/js/main.80c53313.chunk.js"
   ]
 }
