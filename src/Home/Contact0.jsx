@@ -49,13 +49,15 @@ class Content10 extends React.PureComponent {
             />
           </div>
         </div>
+        
         <QueueAnim type="scale">
           {this.state.showInfo && (
-            <div className="map-tip" key="map">
-              <h2>{dataSource.Content.children.title.children}</h2>
-              <p>{dataSource.Content.children.content.children}</p>
-            </div>
+              <div className="map-tip" key="map">
+                <h2>{dataSource.Content.children.title.children}</h2>
+                <p>{dataSource.Content.children.content.children}</p>
+              </div>
           )}
+          <div className="map" key="map"></div>
         </QueueAnim>
       </div>
     );
