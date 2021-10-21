@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/bangongjiaju/static/css/main.4277bdf9.chunk.css",
-    "main.js": "/bangongjiaju/static/js/main.9d0f32b1.chunk.js",
-    "main.js.map": "/bangongjiaju/static/js/main.9d0f32b1.chunk.js.map",
+    "main.js": "/bangongjiaju/static/js/main.59da6a20.chunk.js",
+    "main.js.map": "/bangongjiaju/static/js/main.59da6a20.chunk.js.map",
     "runtime-main.js": "/bangongjiaju/static/js/runtime-main.f7a4e9b6.js",
     "runtime-main.js.map": "/bangongjiaju/static/js/runtime-main.f7a4e9b6.js.map",
-    "static/css/2.4bcd84f1.chunk.css": "/bangongjiaju/static/css/2.4bcd84f1.chunk.css",
+    "static/css/2.24692860.chunk.css": "/bangongjiaju/static/css/2.24692860.chunk.css",
     "static/js/2.bcd7e9af.chunk.js": "/bangongjiaju/static/js/2.bcd7e9af.chunk.js",
     "static/js/2.bcd7e9af.chunk.js.map": "/bangongjiaju/static/js/2.bcd7e9af.chunk.js.map",
     "static/js/3.8c320250.chunk.js": "/bangongjiaju/static/js/3.8c320250.chunk.js",
     "static/js/3.8c320250.chunk.js.map": "/bangongjiaju/static/js/3.8c320250.chunk.js.map",
     "index.html": "/bangongjiaju/index.html",
-    "static/css/2.4bcd84f1.chunk.css.map": "/bangongjiaju/static/css/2.4bcd84f1.chunk.css.map",
+    "static/css/2.24692860.chunk.css.map": "/bangongjiaju/static/css/2.24692860.chunk.css.map",
     "static/css/main.4277bdf9.chunk.css.map": "/bangongjiaju/static/css/main.4277bdf9.chunk.css.map",
     "static/js/2.bcd7e9af.chunk.js.LICENSE.txt": "/bangongjiaju/static/js/2.bcd7e9af.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f7a4e9b6.js",
-    "static/css/2.4bcd84f1.chunk.css",
+    "static/css/2.24692860.chunk.css",
     "static/js/2.bcd7e9af.chunk.js",
     "static/css/main.4277bdf9.chunk.css",
-    "static/js/main.9d0f32b1.chunk.js"
+    "static/js/main.59da6a20.chunk.js"
   ]
 }
